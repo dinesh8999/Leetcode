@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/dinesh8999/Leetcode/tree/master/0013-roman-to-integer) |
+| [0344-reverse-string](https://github.com/dinesh8999/Leetcode/tree/master/0344-reverse-string) |
 ## Simulation
 |  |
 | ------- |
@@ -24,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/dinesh8999/Leetcode/tree/master/0258-add-digits) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/dinesh8999/Leetcode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
