@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/dinesh8999/Leetcode/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/dinesh8999/Leetcode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/dinesh8999/Leetcode/tree/master/0078-subsets) |
+| [0704-binary-search](https://github.com/dinesh8999/Leetcode/tree/master/0704-binary-search) |
 | [3668-restore-finishing-order](https://github.com/dinesh8999/Leetcode/tree/master/3668-restore-finishing-order) |
 ## Backtracking
 |  |
@@ -81,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/dinesh8999/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/dinesh8999/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/dinesh8999/Leetcode/tree/master/0206-reverse-linked-list) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/dinesh8999/Leetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
