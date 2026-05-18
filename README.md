@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/dinesh8999/Leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/dinesh8999/Leetcode/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/dinesh8999/Leetcode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/dinesh8999/Leetcode/tree/master/0078-subsets) |
@@ -85,5 +86,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/dinesh8999/Leetcode/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/dinesh8999/Leetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
