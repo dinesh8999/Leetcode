@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/dinesh8999/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/dinesh8999/Leetcode/tree/master/0344-reverse-string) |
 | [0763-partition-labels](https://github.com/dinesh8999/Leetcode/tree/master/0763-partition-labels) |
+| [0876-middle-of-the-linked-list](https://github.com/dinesh8999/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0925-long-pressed-name](https://github.com/dinesh8999/Leetcode/tree/master/0925-long-pressed-name) |
 ## Dynamic Programming
 |  |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/dinesh8999/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/dinesh8999/Leetcode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/dinesh8999/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/dinesh8999/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1472-design-browser-history](https://github.com/dinesh8999/Leetcode/tree/master/1472-design-browser-history) |
 ## Binary Search
 |  |
