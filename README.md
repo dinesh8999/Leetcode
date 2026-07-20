@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/dinesh8999/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1472-design-browser-history](https://github.com/dinesh8999/Leetcode/tree/master/1472-design-browser-history) |
 | [2460-apply-operations-to-an-array](https://github.com/dinesh8999/Leetcode/tree/master/2460-apply-operations-to-an-array) |
+| [2951-find-the-peaks](https://github.com/dinesh8999/Leetcode/tree/master/2951-find-the-peaks) |
 | [3668-restore-finishing-order](https://github.com/dinesh8999/Leetcode/tree/master/3668-restore-finishing-order) |
 ## Backtracking
 |  |
@@ -281,4 +282,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/dinesh8999/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/dinesh8999/Leetcode/tree/master/0496-next-greater-element-i) |
+## Enumeration
+|  |
+| ------- |
+| [2951-find-the-peaks](https://github.com/dinesh8999/Leetcode/tree/master/2951-find-the-peaks) |
 <!---LeetCode Topics End-->
