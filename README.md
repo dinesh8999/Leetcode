@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/dinesh8999/Leetcode/tree/master/0344-reverse-string) |
 | [0763-partition-labels](https://github.com/dinesh8999/Leetcode/tree/master/0763-partition-labels) |
 | [0925-long-pressed-name](https://github.com/dinesh8999/Leetcode/tree/master/0925-long-pressed-name) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/dinesh8999/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Simulation
 |  |
 | ------- |
@@ -295,4 +296,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/dinesh8999/Leetcode/tree/master/1260-shift-2d-grid) |
+## Sliding Window
+|  |
+| ------- |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/dinesh8999/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
