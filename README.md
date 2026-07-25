@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/dinesh8999/Leetcode/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/dinesh8999/Leetcode/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/dinesh8999/Leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [3536-maximum-product-of-two-digits](https://github.com/dinesh8999/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/dinesh8999/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## String
 |  |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/dinesh8999/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/dinesh8999/Leetcode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/dinesh8999/Leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [3536-maximum-product-of-two-digits](https://github.com/dinesh8999/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Linked List
 |  |
 | ------- |
