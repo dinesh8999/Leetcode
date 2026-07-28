@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/dinesh8999/Leetcode/tree/master/0763-partition-labels) |
 | [0925-long-pressed-name](https://github.com/dinesh8999/Leetcode/tree/master/0925-long-pressed-name) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/dinesh8999/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/dinesh8999/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Simulation
 |  |
 | ------- |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/dinesh8999/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/dinesh8999/Leetcode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/dinesh8999/Leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/dinesh8999/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/dinesh8999/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Linked List
 |  |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/dinesh8999/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/dinesh8999/Leetcode/tree/master/0912-sort-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/dinesh8999/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Greedy
 |  |
 | ------- |
