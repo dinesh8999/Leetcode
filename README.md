@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/dinesh8999/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0925-long-pressed-name](https://github.com/dinesh8999/Leetcode/tree/master/0925-long-pressed-name) |
 | [2460-apply-operations-to-an-array](https://github.com/dinesh8999/Leetcode/tree/master/2460-apply-operations-to-an-array) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/dinesh8999/Leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2460-apply-operations-to-an-array](https://github.com/dinesh8999/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2951-find-the-peaks](https://github.com/dinesh8999/Leetcode/tree/master/2951-find-the-peaks) |
 | [3668-restore-finishing-order](https://github.com/dinesh8999/Leetcode/tree/master/3668-restore-finishing-order) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/dinesh8999/Leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Backtracking
 |  |
 | ------- |
