@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/dinesh8999/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/dinesh8999/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/dinesh8999/Leetcode/tree/master/0146-lru-cache) |
+| [0229-majority-element-ii](https://github.com/dinesh8999/Leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/dinesh8999/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/dinesh8999/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0706-design-hashmap](https://github.com/dinesh8999/Leetcode/tree/master/0706-design-hashmap) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dinesh8999/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/dinesh8999/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/dinesh8999/Leetcode/tree/master/0198-house-robber) |
+| [0229-majority-element-ii](https://github.com/dinesh8999/Leetcode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/dinesh8999/Leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/dinesh8999/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/dinesh8999/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/dinesh8999/Leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/dinesh8999/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/dinesh8999/Leetcode/tree/master/0075-sort-colors) |
+| [0229-majority-element-ii](https://github.com/dinesh8999/Leetcode/tree/master/0229-majority-element-ii) |
 | [0295-find-median-from-data-stream](https://github.com/dinesh8999/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/dinesh8999/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0646-maximum-length-of-pair-chain](https://github.com/dinesh8999/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/dinesh8999/Leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/dinesh8999/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/dinesh8999/Leetcode/tree/master/0912-sort-an-array) |
 | [1512-number-of-good-pairs](https://github.com/dinesh8999/Leetcode/tree/master/1512-number-of-good-pairs) |
@@ -361,4 +365,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/dinesh8999/Leetcode/tree/master/0812-largest-triangle-area) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/dinesh8999/Leetcode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
