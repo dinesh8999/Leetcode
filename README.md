@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/dinesh8999/Leetcode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/dinesh8999/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1019-next-greater-node-in-linked-list](https://github.com/dinesh8999/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
+| [1219-path-with-maximum-gold](https://github.com/dinesh8999/Leetcode/tree/master/1219-path-with-maximum-gold) |
 | [1260-shift-2d-grid](https://github.com/dinesh8999/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1441-build-an-array-with-stack-operations](https://github.com/dinesh8999/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1472-design-browser-history](https://github.com/dinesh8999/Leetcode/tree/master/1472-design-browser-history) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/dinesh8999/Leetcode/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/dinesh8999/Leetcode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/dinesh8999/Leetcode/tree/master/0078-subsets) |
+| [1219-path-with-maximum-gold](https://github.com/dinesh8999/Leetcode/tree/master/1219-path-with-maximum-gold) |
 ## Sorting
 |  |
 | ------- |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1219-path-with-maximum-gold](https://github.com/dinesh8999/Leetcode/tree/master/1219-path-with-maximum-gold) |
 | [1260-shift-2d-grid](https://github.com/dinesh8999/Leetcode/tree/master/1260-shift-2d-grid) |
 ## Sliding Window
 |  |
