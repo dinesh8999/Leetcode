@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-largest-triangle-area](https://github.com/dinesh8999/Leetcode/tree/master/0812-largest-triangle-area) |
 | [0912-sort-an-array](https://github.com/dinesh8999/Leetcode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/dinesh8999/Leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/dinesh8999/Leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1019-next-greater-node-in-linked-list](https://github.com/dinesh8999/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1219-path-with-maximum-gold](https://github.com/dinesh8999/Leetcode/tree/master/1219-path-with-maximum-gold) |
 | [1260-shift-2d-grid](https://github.com/dinesh8999/Leetcode/tree/master/1260-shift-2d-grid) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/dinesh8999/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0763-partition-labels](https://github.com/dinesh8999/Leetcode/tree/master/0763-partition-labels) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/dinesh8999/Leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/dinesh8999/Leetcode/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/dinesh8999/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Union-Find
