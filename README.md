@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/dinesh8999/Leetcode/tree/master/0344-reverse-string) |
 | [0763-partition-labels](https://github.com/dinesh8999/Leetcode/tree/master/0763-partition-labels) |
 | [0876-middle-of-the-linked-list](https://github.com/dinesh8999/Leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [0905-sort-array-by-parity](https://github.com/dinesh8999/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0925-long-pressed-name](https://github.com/dinesh8999/Leetcode/tree/master/0925-long-pressed-name) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/dinesh8999/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2460-apply-operations-to-an-array](https://github.com/dinesh8999/Leetcode/tree/master/2460-apply-operations-to-an-array) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/dinesh8999/Leetcode/tree/master/0706-design-hashmap) |
 | [0746-min-cost-climbing-stairs](https://github.com/dinesh8999/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0812-largest-triangle-area](https://github.com/dinesh8999/Leetcode/tree/master/0812-largest-triangle-area) |
+| [0905-sort-array-by-parity](https://github.com/dinesh8999/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/dinesh8999/Leetcode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/dinesh8999/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/dinesh8999/Leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/dinesh8999/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/dinesh8999/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0646-maximum-length-of-pair-chain](https://github.com/dinesh8999/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0905-sort-array-by-parity](https://github.com/dinesh8999/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/dinesh8999/Leetcode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/dinesh8999/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/dinesh8999/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
