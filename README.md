@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/dinesh8999/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1441-build-an-array-with-stack-operations](https://github.com/dinesh8999/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1472-design-browser-history](https://github.com/dinesh8999/Leetcode/tree/master/1472-design-browser-history) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/dinesh8999/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1512-number-of-good-pairs](https://github.com/dinesh8999/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/dinesh8999/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2460-apply-operations-to-an-array](https://github.com/dinesh8999/Leetcode/tree/master/2460-apply-operations-to-an-array) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/dinesh8999/Leetcode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/dinesh8999/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1051-height-checker](https://github.com/dinesh8999/Leetcode/tree/master/1051-height-checker) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/dinesh8999/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/dinesh8999/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/dinesh8999/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/dinesh8999/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
