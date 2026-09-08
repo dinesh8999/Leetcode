@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/dinesh8999/Leetcode/tree/master/0706-design-hashmap) |
 | [0763-partition-labels](https://github.com/dinesh8999/Leetcode/tree/master/0763-partition-labels) |
 | [1512-number-of-good-pairs](https://github.com/dinesh8999/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/dinesh8999/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/dinesh8999/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3668-restore-finishing-order](https://github.com/dinesh8999/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/dinesh8999/Leetcode/tree/master/3731-find-missing-elements) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/dinesh8999/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/dinesh8999/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0925-long-pressed-name](https://github.com/dinesh8999/Leetcode/tree/master/0925-long-pressed-name) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/dinesh8999/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/dinesh8999/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2460-apply-operations-to-an-array](https://github.com/dinesh8999/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/dinesh8999/Leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1472-design-browser-history](https://github.com/dinesh8999/Leetcode/tree/master/1472-design-browser-history) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/dinesh8999/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1512-number-of-good-pairs](https://github.com/dinesh8999/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/dinesh8999/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/dinesh8999/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2460-apply-operations-to-an-array](https://github.com/dinesh8999/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2951-find-the-peaks](https://github.com/dinesh8999/Leetcode/tree/master/2951-find-the-peaks) |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/dinesh8999/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1051-height-checker](https://github.com/dinesh8999/Leetcode/tree/master/1051-height-checker) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/dinesh8999/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/dinesh8999/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/dinesh8999/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/dinesh8999/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/dinesh8999/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
