@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/dinesh8999/Leetcode/tree/master/0706-design-hashmap) |
 | [0763-partition-labels](https://github.com/dinesh8999/Leetcode/tree/master/0763-partition-labels) |
 | [1512-number-of-good-pairs](https://github.com/dinesh8999/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/dinesh8999/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/dinesh8999/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/dinesh8999/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3668-restore-finishing-order](https://github.com/dinesh8999/Leetcode/tree/master/3668-restore-finishing-order) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1472-design-browser-history](https://github.com/dinesh8999/Leetcode/tree/master/1472-design-browser-history) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/dinesh8999/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1512-number-of-good-pairs](https://github.com/dinesh8999/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/dinesh8999/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/dinesh8999/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/dinesh8999/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2460-apply-operations-to-an-array](https://github.com/dinesh8999/Leetcode/tree/master/2460-apply-operations-to-an-array) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/dinesh8999/Leetcode/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/dinesh8999/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/dinesh8999/Leetcode/tree/master/0704-binary-search) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/dinesh8999/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -387,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/dinesh8999/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/dinesh8999/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/dinesh8999/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/dinesh8999/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Queue
 |  |
@@ -413,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/dinesh8999/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2485-find-the-pivot-integer](https://github.com/dinesh8999/Leetcode/tree/master/2485-find-the-pivot-integer) |
 ## Longest Increasing Subsequence
 |  |
