@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/dinesh8999/Leetcode/tree/master/0763-partition-labels) |
 | [0925-long-pressed-name](https://github.com/dinesh8999/Leetcode/tree/master/0925-long-pressed-name) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/dinesh8999/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/dinesh8999/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/dinesh8999/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Simulation
 |  |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/dinesh8999/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1441-build-an-array-with-stack-operations](https://github.com/dinesh8999/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1472-design-browser-history](https://github.com/dinesh8999/Leetcode/tree/master/1472-design-browser-history) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/dinesh8999/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Data Stream
 |  |
 | ------- |
@@ -433,4 +435,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/dinesh8999/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/dinesh8999/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
