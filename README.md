@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2485-find-the-pivot-integer](https://github.com/dinesh8999/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3536-maximum-product-of-two-digits](https://github.com/dinesh8999/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/dinesh8999/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/dinesh8999/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/dinesh8999/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3870-count-commas-in-range](https://github.com/dinesh8999/Leetcode/tree/master/3870-count-commas-in-range) |
 ## String
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/dinesh8999/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/dinesh8999/Leetcode/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/dinesh8999/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/dinesh8999/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/dinesh8999/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Union-Find
 |  |
