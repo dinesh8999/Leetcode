@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/dinesh8999/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/dinesh8999/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/dinesh8999/Leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/dinesh8999/Leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/dinesh8999/Leetcode/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/dinesh8999/Leetcode/tree/master/0139-word-break) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/dinesh8999/Leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/dinesh8999/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/dinesh8999/Leetcode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/dinesh8999/Leetcode/tree/master/0139-word-break) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/dinesh8999/Leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/dinesh8999/Leetcode/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/dinesh8999/Leetcode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/dinesh8999/Leetcode/tree/master/0078-subsets) |
@@ -473,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/dinesh8999/Leetcode/tree/master/0022-generate-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/dinesh8999/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/dinesh8999/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/dinesh8999/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
