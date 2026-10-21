@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/dinesh8999/Leetcode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/dinesh8999/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/dinesh8999/Leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/dinesh8999/Leetcode/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/dinesh8999/Leetcode/tree/master/0139-word-break) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/dinesh8999/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/dinesh8999/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/dinesh8999/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dinesh8999/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/dinesh8999/Leetcode/tree/master/0027-remove-element) |
@@ -479,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/dinesh8999/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/dinesh8999/Leetcode/tree/master/0139-word-break) |
 ## Brute-Force Search
 |  |
