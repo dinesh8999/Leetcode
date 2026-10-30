@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/dinesh8999/Leetcode/tree/master/0263-ugly-number) |
 | [0441-arranging-coins](https://github.com/dinesh8999/Leetcode/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/dinesh8999/Leetcode/tree/master/0509-fibonacci-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/dinesh8999/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [0812-largest-triangle-area](https://github.com/dinesh8999/Leetcode/tree/master/0812-largest-triangle-area) |
 | [0973-k-closest-points-to-origin](https://github.com/dinesh8999/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1137-n-th-tribonacci-number](https://github.com/dinesh8999/Leetcode/tree/master/1137-n-th-tribonacci-number) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/dinesh8999/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/dinesh8999/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/dinesh8999/Leetcode/tree/master/0509-fibonacci-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/dinesh8999/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 ## Memoization
 |  |
 | ------- |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/dinesh8999/Leetcode/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/dinesh8999/Leetcode/tree/master/0231-power-of-two) |
+| [0779-k-th-symbol-in-grammar](https://github.com/dinesh8999/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 ## Array
 |  |
 | ------- |
