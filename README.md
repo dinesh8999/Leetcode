@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/dinesh8999/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1137-n-th-tribonacci-number](https://github.com/dinesh8999/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1512-number-of-good-pairs](https://github.com/dinesh8999/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/dinesh8999/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/dinesh8999/Leetcode/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2485-find-the-pivot-integer](https://github.com/dinesh8999/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3536-maximum-product-of-two-digits](https://github.com/dinesh8999/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/dinesh8999/Leetcode/tree/master/0258-add-digits) |
 | [1260-shift-2d-grid](https://github.com/dinesh8999/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1441-build-an-array-with-stack-operations](https://github.com/dinesh8999/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/dinesh8999/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2460-apply-operations-to-an-array](https://github.com/dinesh8999/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/dinesh8999/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/dinesh8999/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/dinesh8999/Leetcode/tree/master/0258-add-digits) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/dinesh8999/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/dinesh8999/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/dinesh8999/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/dinesh8999/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/dinesh8999/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/dinesh8999/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2460-apply-operations-to-an-array](https://github.com/dinesh8999/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/dinesh8999/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -518,4 +522,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/dinesh8999/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Combinatorics
+|  |
+| ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/dinesh8999/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
