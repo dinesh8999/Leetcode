@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/dinesh8999/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/dinesh8999/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/dinesh8999/Leetcode/tree/master/0263-ugly-number) |
+| [0390-elimination-game](https://github.com/dinesh8999/Leetcode/tree/master/0390-elimination-game) |
 | [0441-arranging-coins](https://github.com/dinesh8999/Leetcode/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/dinesh8999/Leetcode/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/dinesh8999/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/dinesh8999/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/dinesh8999/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/dinesh8999/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0390-elimination-game](https://github.com/dinesh8999/Leetcode/tree/master/0390-elimination-game) |
 | [0509-fibonacci-number](https://github.com/dinesh8999/Leetcode/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/dinesh8999/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 ## Memoization
